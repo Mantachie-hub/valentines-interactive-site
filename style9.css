@@ -1,0 +1,58 @@
+body{
+    padding-top:160px;
+     background-image: url("file:///C:/Users/Acheampong%20Manuella/Desktop/Valentine%20project/assets/valspic.jpeg");
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    height: 80vh;
+    
+}
+
+.container h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    border: 2px dashed #fff0f5;
+    padding: 20px 40px;
+    border-radius: 15px;
+    background-color: #fff0f5;
+    box-shadow: 0 0 15px #ffcd21;
+   
+}
+
+.hidden{
+    display: none;
+}
+
+.alternatives{
+    margin: 30px;
+}
+
+button{
+    background-color: #ffe066;
+    color: #8b0000;
+    padding:15px 20px;
+    margin: 20px;
+    border: none;
+    font-size: 2em;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 2px 7px rgba(0,0,0,1);
+}
+
+button:hover{
+    background-color: #f5f5dc;
+     color: #b22222;
+    transform: scale(1.5);
+}
+
+#message{
+    margin-top: 25px;
+    font-size: 1.5em;
+    color: darkred;
+    background-color: #ffe0eb;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #ff99bb;
+   
+}
