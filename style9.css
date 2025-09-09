@@ -1,6 +1,6 @@
 body{
     padding-top:160px;
-     background-image: url("file:///C:/Users/Acheampong%20Manuella/Desktop/Valentine%20project/assets/valspic.jpeg");
+     background: linear-gradient(to right, #ff9a9e, #fad0c4); /* Valentine gradient */
     font-family: "Comic Sans MS", cursive, sans-serif;
     text-align: center;
     height: 80vh;
@@ -56,3 +56,4 @@ button:hover{
     box-shadow: 0 0 10px #ff99bb;
    
 }
+
