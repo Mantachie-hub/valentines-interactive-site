@@ -1,6 +1,6 @@
 body{
     padding-top:160px;
-     background: linear-gradient(to right, #ff9a9e, #fad0c4); /* Valentine gradient */
+     background: linear-gradient(to right, #ff9a9e, #ff6a88, #ff1744);
     font-family: "Comic Sans MS", cursive, sans-serif;
     text-align: center;
     height: 80vh;
@@ -56,4 +56,5 @@ button:hover{
     box-shadow: 0 0 10px #ff99bb;
    
 }
+
 
